@@ -1,0 +1,13 @@
+div {
+	width : 150px;
+	margin-bottom : 20px;
+	margin-right : 20px;
+	float: left;
+}
+#flow {
+	float: left;
+	height : 400px;
+}
+#task3 {
+	clear: both;
+}
